@@ -1,6 +1,6 @@
 [package]
 name = "sponge_string"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Dan Cojocaru <dancojocaru2010@hotmail.com>", "Tyler Frostbyte"]
 edition = "2018"
 
