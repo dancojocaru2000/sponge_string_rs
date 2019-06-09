@@ -1,7 +1,13 @@
 [package]
 name = "sponge_string"
 version = "0.1.0"
-authors = ["kenneth"]
+authors = ["Dan Cojocaru <dancojocaru2010@hotmail.com", "Tyler Frostbyte"]
 edition = "2018"
 
-[dependencies]
+description = "SpOnGe StRiNg In RuSt"
+repository = "https://github.com/dancojocaru2000/sponge_string_rs"
+license = "MIT"
+keywords = ["spongebob", "sponge", "spongestring", "spongebobstring"]
+
+[badges]
+maintenance = { status = "passively-maintained" }
