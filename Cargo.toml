@@ -1,0 +1,7 @@
+[package]
+name = "sponge_string"
+version = "0.1.0"
+authors = ["kenneth"]
+edition = "2018"
+
+[dependencies]
